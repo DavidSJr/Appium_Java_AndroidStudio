@@ -1,8 +1,5 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/DavidSJr/Appium_Java_AndroidStudio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## About
+Thank you for visiting my website. I've been a manual tester in software for 6 years. Below, you will see some scripts I've worked on using Appium. The languages used are Java and XPath. I run these Test Cases on APIDemos-debug.apk. 
 
 ### Markdown
 
