@@ -1,5 +1,5 @@
 ## About
-Thank you for visiting my website. I've been a manual tester in software for 6 years. Below, you will see some scripts I've worked on using Appium. The languages used are Java and XPath. I run these Test Cases on APIDemos-debug.apk. 
+Thank you for visiting my website. I've been a manual tester in software for over 5 years. Below, you will see some scripts I've worked on using Appium. The languages used are Java and XPath. I run these Test Cases on APIDemos-debug.apk. 
 
 ### Markdown
 
